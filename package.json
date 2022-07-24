@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "ts-run": "npx ts-node-dev ./challenge-2-generic/index.ts"
+  },
   "devDependencies": {
     "ts-node": "^10.9.1",
     "ts-node-dev": "^2.0.0",
