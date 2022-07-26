@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "ts-run": "npx ts-node-dev ./day-8/generics-with-key-of.ts"
+    "ts-run": "npx ts-node-dev ./day-9/utility-types-1.ts"
   },
   "devDependencies": {
     "ts-node": "^10.9.1",
