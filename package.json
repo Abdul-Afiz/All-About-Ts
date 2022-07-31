@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "ts-run": "npx ts-node-dev ./day-12/database.ts"
+    "ts-run": "npx ts-node-dev ./challenge-3/basics.ts"
   },
   "devDependencies": {
     "ts-node": "^10.9.1",
